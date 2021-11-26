@@ -59,4 +59,13 @@ print(frase.find('Android'))
 print('='*40)
 print('='*40)
 
+print('Replace')
+print('O comando replace substitiu uma string por outra.')
+print("frase = frase.replace('Python', 'Android')")
+print('A primeira string após o parenteses é a que vai ser substituida pela segunda string.\nVeja o resultado:')
+frase = frase.replace('Python', 'Android')
+print(frase)
+
+
+
 
