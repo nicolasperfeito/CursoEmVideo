@@ -3,7 +3,8 @@
 #   e mostre a ordem sorteada.
 
 from random import shuffle
-print('ORDEM DE APRESENTAÇÃO DOS ALUNOS\n')
+print('ORDEM DE APRESENTAÇÃO DOS ALUNOS')
+print('='*40)
 nome1 = input('Digite o nome do primeiro aluno: ')
 nome2 = input('Digite o nome do segundo aluno: ')
 nome3 = input('Digite o nome do terceiro aluno: ')
